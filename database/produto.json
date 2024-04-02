@@ -1,9 +1,29 @@
-[{
-  "nome": "Produto Exemplo",
-  "empresa": "Empresa Exemplo",
-  "descricao": "Este é um exemplo de descrição do produto.",
+[ 
+  {
+  "nome": "Refrigerante Coca-Cola 2L",
+  "empresa": "Ambev",
+  "descricao": "Este é um produto da linha de Refrigerante",
   "quantidade": 100,
-  "marca": "Marca Exemplo",
-  "valor": 50.99
+  "marca": "Coca-Cola",
+  "valor": 8.99
+},
+
+{
+  "nome": "Refrigerante Pepsi",
+  "empresa": "Pepsico",
+  "descricao": "Este é um produto da linha de Refrigerante",
+  "quantidade": 150,
+  "marca": "Pepsi",
+  "valor": 7.99
+},
+
+{
+  "nome": "Energético Monster",
+  "empresa": "Monster Beverage",
+  "descricao": "Este é um produto da linha de Energético",
+  "quantidade": 200,
+  "marca": "Monster",
+  "valor": 7.99
 }
+
 ]
